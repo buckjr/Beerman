@@ -2,6 +2,8 @@
 
 #include <iostream> // ? 
 
+using namespace std;
+
 void Beerman::print() {
-  std::out << "Hello World";
+  cout << "Hello World\n";
 };
